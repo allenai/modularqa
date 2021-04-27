@@ -23,12 +23,17 @@ Bibtex:
 
 ## Demo
 [https://modularqa-demo.apps.allenai.org/](https://modularqa-demo.apps.allenai.org/)
+
 Note that responses might be slow
 
 ## Data
 We used the following subsets of HotpotQA and DROP to train and evaluate our models
  * [HotpotQA](https://ai2-public-datasets.s3.amazonaws.com/modularqa/hotpot_subset.zip)
  * [DROP](https://ai2-public-datasets.s3.amazonaws.com/modularqa/drop_subset.zip)
+
+
+[NextGen Training Data](https://ai2-public-datasets.s3.amazonaws.com/modularqa/modularqa_nextgen_train.zip):
+The decomposition chains generated from these DROP+HotpotQA subsets. These chains were used to train the NextGen model.
 
 
 ## Models
