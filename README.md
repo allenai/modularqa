@@ -30,6 +30,7 @@ Note that responses might be slow
 We used the following subsets of HotpotQA and DROP to train and evaluate our models
  * [HotpotQA](https://ai2-public-datasets.s3.amazonaws.com/modularqa/hotpot_subset.zip)
  * [DROP](https://ai2-public-datasets.s3.amazonaws.com/modularqa/drop_subset.zip)
+ * [DROP Evaluation Partitions](https://ai2-public-datasets.s3.amazonaws.com/modularqa/drop_partitions.zip)
 
 
 [NextGen Training Data](https://ai2-public-datasets.s3.amazonaws.com/modularqa/modularqa_nextgen_train.zip):
